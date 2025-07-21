@@ -26,12 +26,6 @@ I love learning how different technologies work together and applying my knowled
 - 🏞️ Adventure activities like hiking, trekking, and camping
 - 🏐 Sports like volleyball, basketball, and table tennis  
   
-## 🌟 Why I Want to Join the Developers' Community
-I am excited to join this community because I love collaborating with like-minded developers.  
-By working on group projects, I want to enhance my coding skills, follow industry-standard development practices, and build meaningful software solutions.
-
-## 🌟 Why I Want to Join the Developers' Community
-Joining the Developers' Community is an opportunity for me to grow alongside talented individuals, share my knowledge, and learn new techniques. I want to challenge myself with group projects and gain experience in project management, coding best practices, and real-world development environments. I'm excited about the potential to collaborate, build innovative solutions, and develop as a professional in the tech industry.
 
 ---
 ⭐️ Checkout my [GitHub Profile](https://github.com/yourusername)
